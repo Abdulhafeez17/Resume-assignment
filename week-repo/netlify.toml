@@ -1,2 +1,6 @@
 
+  [build]
+  base    = "/client" # If your client code is in the 'client' folder
+  publish = "dist"
+  command = "npm run build"
   
